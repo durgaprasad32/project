@@ -14,14 +14,14 @@
 $
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1679719263,,"wq"
 :q
-|2,0,1679713089,,"q"
+|2,0,1679724602,,"q"
+:wq
+|2,0,1679724521,,"wq"
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1679712498,,"@$"
+|2,1,1679724864,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -32,32 +32,186 @@ $
 # Registers:
 
 # File marks:
-'0  24  2  ~/my-project/config/plugin.js
-|4,48,24,2,1679719263,"~/my-project/config/plugin.js"
-'1  1  0  ~/my-project/config/database.js
-|4,49,1,0,1679719045,"~/my-project/config/database.js"
-'2  1  0  ~/./mp-project/config/database.js
-|4,50,1,0,1679713102,"~/./mp-project/config/database.js"
-'3  1  0  ~/package-lock.json
-|4,51,1,0,1679712606,"~/package-lock.json"
-'4  8  0  ~/node_modules
-|4,52,8,0,1679712523,"~/node_modules"
-'5  136  0  ~/package-lock.json
-|4,53,136,0,1679712488,"~/package-lock.json"
-'6  136  0  ~/package-lock.json
-|4,54,136,0,1679712488,"~/package-lock.json"
-'7  1  0  ~/package.json
-|4,55,1,0,1679712455,"~/package.json"
+'0  24  4  ~/ecosystem.config.js
+|4,48,24,4,1679732778,"~/ecosystem.config.js"
+'1  8  0  ~/my-project/public
+|4,49,8,0,1679724878,"~/my-project/public"
+'2  9  37  ~/.env
+|4,50,9,37,1679724699,"~/.env"
+'3  1  0  ~/ecosystem.config.js
+|4,51,1,0,1679724623,"~/ecosystem.config.js"
+'4  24  2  ~/my-project/config/plugin.js
+|4,52,24,2,1679719263,"~/my-project/config/plugin.js"
+'5  1  0  ~/my-project/config/database.js
+|4,53,1,0,1679719045,"~/my-project/config/database.js"
+'6  1  0  ~/./mp-project/config/database.js
+|4,54,1,0,1679713102,"~/./mp-project/config/database.js"
+'7  1  0  ~/package-lock.json
+|4,55,1,0,1679712606,"~/package-lock.json"
+'8  8  0  ~/node_modules
+|4,56,8,0,1679712523,"~/node_modules"
+'9  136  0  ~/package-lock.json
+|4,57,136,0,1679712488,"~/package-lock.json"
 
 # Jumplist (newest first):
+-'  24  4  ~/ecosystem.config.js
+|4,39,24,4,1679732778,"~/ecosystem.config.js"
+-'  8  0  ~/my-project/public
+|4,39,8,0,1679724878,"~/my-project/public"
+-'  9  37  ~/.env
+|4,39,9,37,1679724699,"~/.env"
+-'  9  37  ~/.env
+|4,39,9,37,1679724699,"~/.env"
+-'  1  0  ~/.env
+|4,39,1,0,1679724638,"~/.env"
+-'  1  0  ~/.env
+|4,39,1,0,1679724638,"~/.env"
+-'  1  0  ~/ecosystem.config.js
+|4,39,1,0,1679724623,"~/ecosystem.config.js"
+-'  1  0  ~/ecosystem.config.js
+|4,39,1,0,1679724623,"~/ecosystem.config.js"
+-'  1  0  ~/ecosystem.config.js
+|4,39,1,0,1679724623,"~/ecosystem.config.js"
+-'  1  0  ~/ecosystem.config.js
+|4,39,1,0,1679724623,"~/ecosystem.config.js"
+-'  1  0  ~/ecosystem.config.js
+|4,39,1,0,1679724012,"~/ecosystem.config.js"
 -'  24  2  ~/my-project/config/plugin.js
 |4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  24  2  ~/my-project/config/plugin.js
+|4,39,24,2,1679719263,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
+-'  1  0  ~/my-project/config/plugin.js
+|4,39,1,0,1679719233,"~/my-project/config/plugin.js"
 -'  1  0  ~/my-project/config/plugin.js
 |4,39,1,0,1679719233,"~/my-project/config/plugin.js"
 -'  1  0  ~/my-project/config/database.js
 |4,39,1,0,1679719045,"~/my-project/config/database.js"
 -'  1  0  ~/my-project/config/database.js
 |4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/my-project/config/database.js
+|4,39,1,0,1679719045,"~/my-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
+-'  1  0  ~/./mp-project/config/database.js
+|4,39,1,0,1679713102,"~/./mp-project/config/database.js"
 -'  1  0  ~/./mp-project/config/database.js
 |4,39,1,0,1679713102,"~/./mp-project/config/database.js"
 -'  1  0  ~/./mp-project/config/database.js
@@ -82,176 +236,41 @@ $
 |4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
 |4,39,1,0,1679712606,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712531,"~/package-lock.json"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  8  0  ~/node_modules
-|4,39,8,0,1679712523,"~/node_modules"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
--'  136  0  ~/package-lock.json
-|4,39,136,0,1679712488,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 -'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package-lock.json
-|4,39,1,0,1679712468,"~/package-lock.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
--'  1  0  ~/package.json
-|4,39,1,0,1679712455,"~/package.json"
+|4,39,1,0,1679712606,"~/package-lock.json"
 
 # History of marks within files (newest to oldest):
+
+> ~/ecosystem.config.js
+	*	1679732778	0
+	"	24	4
+	^	20	9
+	.	20	9
+	+	4	22
+	+	20	9
+
+> ~/.env
+	*	1679724685	0
+	"	9	37
+	^	9	38
+	.	9	37
+	+	9	37
 
 > ~/my-project/config/plugin.js
 	*	1679719261	0
